@@ -1,0 +1,5 @@
+{
+  "name": "5G Core NMS Monitoring Dashboard",
+  "description": "A dashboard prototype for end-to-end 5G Core network management, visualizing network functions, metrics, architecture, and providing AI-powered explanations.",
+  "requestFramePermissions": []
+}
